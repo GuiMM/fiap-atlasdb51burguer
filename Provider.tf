@@ -11,7 +11,7 @@ terraform {
 }
 
 provider "mongodbatlas" {
-  private_key = "af1345a9-05b6-4c3e-a575-061880fcdb49"
-  public_key = "dmauuxot"
+  private_key = "74528e2a-7bf2-4c16-ba49-2fbcc36c8950"
+  public_key = "hbzelgix"
 }
 
