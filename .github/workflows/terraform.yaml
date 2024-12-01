@@ -28,5 +28,5 @@ jobs:
       - name: Terraform Apply
         run: terraform apply -auto-approve tfplan
         env:
-          MONGODB_PRIVATE_KEY: silvajuliano8130
-          MONGODB_PUBLIC_KEY: LVpuriKtvvlLYGep
+          MONGODB_PRIVATE_KEY: 74528e2a-7bf2-4c16-ba49-2fbcc36c8950
+          MONGODB_PUBLIC_KEY: hbzelgix
